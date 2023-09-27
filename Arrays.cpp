@@ -10,6 +10,7 @@ for (int i = 0; i < 6; i++)
 {
     cout << "Enter the marks of the student  "<<i+1<<" : ";
     cin>>dym[i];
+
 }
 
 for (int  i = 0; i < 6; i++)
